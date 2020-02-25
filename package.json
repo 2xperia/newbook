@@ -1,0 +1,24 @@
+{
+  "name": "newbook",
+  "version": "1.0.0",
+  "description": "仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2xperia/newbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2xperia/newbook/issues"
+  },
+  "homepage": "https://github.com/2xperia/newbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "dependencies": {}
+}
